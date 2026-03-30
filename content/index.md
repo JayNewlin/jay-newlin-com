@@ -1,5 +1,6 @@
 ---
-title: Jay Newlin
+title: Jay R. Newlin
+description: Technologist and Software Quality Assurance guru
 ---
 # Quality isn’t a checkbox. It’s how systems earn user trust.
 
