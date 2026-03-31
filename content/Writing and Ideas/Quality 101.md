@@ -1,1 +1,0 @@
-This is a placeholder page. Content will be here soon.

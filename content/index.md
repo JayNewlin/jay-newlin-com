@@ -4,7 +4,7 @@ description: Technologist and Software Quality Assurance guru
 ---
 # Quality isn’t a checkbox. It’s how systems earn user trust.
 
-I help teams build software that is not only correct, but *fit for use* (see [[Quality 101]] to read how I understand this term), through properly planned and executed testing, practical quality systems, and real-world experience.
+I help teams build software that is not only correct, but *fit for use* (see [[Quality as Fitness for Use]] to read how I understand this term), through properly planned and executed testing, practical quality systems, and real-world experience.
 
 ---
 ## What I Do
@@ -24,18 +24,20 @@ I ensure software works not just technically, but meaningfully for users, stakeh
 ---
 ## How I Think About Quality
 
-I define quality the way Joseph Juran did: **fitness for use**. (See [[Quality 101]])
+I define quality the way Joseph Juran did: **fitness for use**. (See [[Quality as Fitness for Use]])
 
 That means software isn’t “high quality” just because it passes tests. It’s high quality when people can use it effectively, confidently, and even *enjoyably*.
 
 Testing is not about proving that the system works.  It’s about discovering how, where, why (and perhaps even when) it might fail.
 
 The best results come when quality is shared:
+- Business analysts capture the users' needs as requirements
+- Designers create UI/UX that turns requirements into usable systems
 - Developers build with intention  
-- Reviewers strengthen the work  
+- Code reviewers strengthen the work  
 - Testers explore, challenge, and reveal  
 
-Three sets of eyes, one shared goal.
+Many members of the team, one shared goal.
 
 ---
 
@@ -43,19 +45,19 @@ Three sets of eyes, one shared goal.
 
 A selection of my work on software quality, testing, and process:
 
-- [[Quality 101]]
+- [[Quality as Fitness for Use]]
   A practical look at what quality really means in software and why it matters.
 
 - [[Exploratory Testing]]  
   Why the most effective testing isn’t scripted. This also includes some hints on how to do it well.
 
-- [[Little Things Matter]]  
-  How small, consistent attention to detail leads to meaningful quality outcomes.
+- [[How to Write a Good Bug Ticket]]  
+  Because every bug ticket should be immediately actionable when assigned to a Developer to fix.
 
 ---
 ## Speaking & Thought Leadership
 
-I speak about software quality, testing, and building sustainable quality systems, drawing from decades of hands-on experience.
+I speak about software quality, testing, and building sustainable quality systems, drawing from decades of experience with many teams and clients.
 
 Topics include:
 
