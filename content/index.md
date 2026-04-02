@@ -1,28 +1,43 @@
 ---
 title: Jay R. Newlin
-description: Technologist and Software Quality Assurance guru
+description: I don’t just test software. I help teams build systems where quality becomes inevitable.
 ---
-# Quality isn’t a checkbox. It’s how systems earn user trust.
+Hi! I’m Jay Newlin, and welcome to my website! I have long joked that I’m the “QA guy of your ~~nightmares~~ dreams.” That’s especially true if you’re a software bug: I will find you and work hard to quash you.
 
-I help teams build software that is not only correct, but *fit for use* (see [[Quality as Fitness for Use]] to read how I understand this term), through properly planned and executed testing, practical quality systems, and real-world experience.
+I don’t just test software. I help teams build systems where quality becomes inevitable.
+
+I’ve worked with teams as small as two people and with organizations of over 150. I’m at my best when I can help clarify, organize, and strengthen the practices that turn good intentions into reliable, high-quality outcomes.
+
+To put it simply: I help teams turn good software practices into a sustainable, real-world Culture of Quality.
+
+I’m currently the Director of Quality Assurance for [Hunter Strategy](https://www.hunterstrategy.net/home), where my work has expanded into ISO 9001:2015 auditing, [CMMI](https://cmmiinstitute.com/cmmi/intro) practitioner training, and [CMMC](https://dodcio.defense.gov/cmmc/About/)-aligned practices.
+
+Those frameworks matter—but they’re not the goal. They’re tools. And by themselves, they don’t create quality.
 
 ---
-## What I Do
+## Quality isn’t a checkbox. It’s how systems earn user trust.
+
+Software quality is emergent from good practices directly aligned with my basic Philosophy of Quality: [[Quality as Fitness for Use]]. I help teams build software that is not only correct, but *fit for use,* through properly planned and executed testing, practical quality systems, and real-world experience.
+
+---
+## What I do
 
 ### Quality Strategy
-I help organizations move from reactive testing to a culture of quality, where quality is built in from the beginning, not "verified & validated" at the end.
 
-### Exploratory Testing Leadership
-I teach teams how to think critically about their systems, uncovering risks and behaviors that scripted testing alone will never find.
-
-### Process & Standards (ISO 9001, CMMI)
-I bring structure where it helps, without letting "The Process" become the goal instead of the tool.
-
+- I help organizations move from reactive testing to a culture of quality, where quality is built in from the beginning, not just "verified & validated" at the end.
+- I teach teams how to think critically about their systems, uncovering risks and behaviors that scripted testing alone will never find.
+- I bring structure where it helps, without letting "The Process" become the goal instead of the tools to achieve true quality.
 ### Bridging Business and Technology
-I ensure software works not just technically, but meaningfully for users, stakeholders, and the business itself.
+
+I help ensure that software works not just technically, but meaningfully — for users, stakeholders, and the business itself.
+
+That means translating between perspectives:
+- Business needs into testable outcomes  
+- Technical implementation into real-world impact  
+- Risk into something teams can actually act on
 
 ---
-## How I Think About Quality
+## How I think about quality
 
 I define quality the way Joseph Juran did: **fitness for use**. (See [[Quality as Fitness for Use]])
 
@@ -43,34 +58,29 @@ Many members of the team, one shared goal.
 
 ## Writing & Ideas
 
-A selection of my work on software quality, testing, and process:
+In the left nav, you’ll find articles and essays I’ve written over the past 15 years on achieving true software quality.
 
-- [[Quality as Fitness for Use]]
-  A practical look at what quality really means in software and why it matters.
+- **Foundations of Quality** begins with [[Quality as Fitness for Use]] as the basis by which to understand and hints at how to achieve quality. The other articles expand on those thoughts a bit further.
+- **Quality Systems** includes the approaches that I encourage for planning, managing, and executing testing strategies. [[Three Sets of Eyes]] provides an underpinning for organizing your development team around a common goal: producing great software.
+- **Teams and Culture** is where you’ll find my thoughts on how to build and maintain teams that are committed to each other as much as they are to the software that they produce.
 
-- [[Exploratory Testing]]  
-  Why the most effective testing isn’t scripted. This also includes some hints on how to do it well.
-
-- [[How to Write a Good Bug Ticket]]  
-  Because every bug ticket should be immediately actionable when assigned to a Developer to fix.
+**Please note** that I’m still developing and refining many of the articles and even the organization of this site itself. If we know each other well and you like how I think/write about Software Quality, come back frequently to see what is new or has changed. This is a living body of work — some sections are still evolving, and a few pages are still very much in progress.
 
 ---
-## Speaking & Thought Leadership
+## Speaking & Conferences
 
-I speak about software quality, testing, and building sustainable quality systems, drawing from decades of experience with many teams and clients.
+I’m comfortable speaking with groups as small as 1:1 training or discussions up to a room of a couple hundred people. What many people don’t know is that I spent 14 years of my career serving as a pastor, and public speaking and teaching are strong suits for me.
+
+I have developed and delivered talks, webinars, and classes that range from 15 to 90 minutes. My main subjects include software quality, testing, and building sustainable quality systems, all drawn from decades of experience with many teams and clients.
 
 Topics include:
 
-- The QA Professional’s Guide to Becoming Your Company’s Quality Management Hero  
-- Exploratory Testing in Practice  
-- Building a Culture of Quality (Not Just a Process)
+- QA 101 (for those unfamiliar with basic concepts or the testing career path)
+- Exploratory Testing in Practice
+- The QA Professional’s Guide to Becoming Your Company’s Quality Management Hero    
+- Building a Culture of Quality
 
-*Interested in having me speak? Let’s connect.* [[About Me]]
+*Interested in having me speak? [Let’s connect.](mailto:jay@jaynewlin.com)*
 
 ---
-
-# A Quick Note
-
-This is a site that's under development right now. Please excuse any broken links or incomplete or missing content. You can [drop me a line](mailto:jay@jaynewlin.com) if you want to nudge me to fix or add something.
-
-
+Unless indicated otherwise, all material on this site is copyright ©2026 Jay R. Newlin. All right reserved.

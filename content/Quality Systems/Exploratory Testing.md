@@ -69,5 +69,5 @@ I have found both of these resources to be very helpful as I learned software te
 - [The Art of Software Testing](https://www.wiley.com/en-us/The+Art+of+Software+Testing%2C+3rd+Edition-p-9781119202486)
 
 ---
-**Copyright Notice:** Except where indicated otherwise, all material on this page is copyright ©2019, revised and updated 2026, by Jay R. Newlin. All rights reserved.
+Except where indicated otherwise, all material on this page is copyright ©2019, revised and updated 2026, by Jay R. Newlin. All rights reserved.
 
