@@ -36,5 +36,3 @@ Testing "fitness for use" in software can't always be done with scripts and auto
 
 When we design, build, and test software for its _fitness for use,_ we’re not just meeting requirements -- we’re creating software that people will actually use, trust, and value.
 
----
-Copyright ©2019, revised 2026 by Jay R. Newlin. All rights reserved.

@@ -133,5 +133,3 @@ And that’s where the real results come from.
 
 **Three Sets of Eyes** isn't about process maturity. It's about having the courage -- and the humility -- to invite someone else to look closely at your work.
 
----
-Copyright ©2026 Jay R. Newlin. All rights reserved.

@@ -74,6 +74,3 @@ This is especially wise if you are new to writing bug tickets. Even if you’re 
 	1. Does it make sense to you when you re-read it?
 	2. Is everything spelled correctly, and are you using good grammar?
 	3. Did you remember to attach screenshots/video and to record error messages?
-
----
-Copyright © 2014, 2019, 2026 Jay R. Newlin. All rights reserved.

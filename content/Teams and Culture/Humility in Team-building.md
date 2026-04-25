@@ -32,6 +32,3 @@ That’s what real leadership looks like. And the same is true for project manag
 
 At its best, software development is a team sport, not an individual endeavor. Quality doesn’t come from any one person. It emerges from teams that are as committed to each other as they are to the work.
 
----
-Copyright ©2026 Jay R. Newlin. All rights reserved.
-

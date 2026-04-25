@@ -101,5 +101,3 @@ Topics include:
 
 *Interested in having me speak? [Let’s connect.](mailto:jay@jaynewlin.com)*
 
----
-Unless indicated otherwise, all material on this site is copyright ©2026 Jay R. Newlin. All rights reserved.
